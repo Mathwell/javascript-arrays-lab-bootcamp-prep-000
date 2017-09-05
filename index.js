@@ -1,5 +1,5 @@
 const app = "I don't do much."
-vae kittens=["Milo", "Otis", "Garfield"]
+var kittens=["Milo", "Otis", "Garfield"]
 
 function appendKitten(name){
   return(kittens...,name)
