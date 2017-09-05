@@ -13,7 +13,8 @@ function desructivelyPrependKitten(name){
 }
 
 function destructivelyRemoveFirstKitten(){
-
+ kittens.shift()
+ retun(kittens)
 }
 
 function destructivelyRemoveLastKitten(){
